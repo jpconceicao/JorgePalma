@@ -1,11 +1,11 @@
-# JorgePalma :computer:
+# Jorge Palma :computer:
 
 ## Sobre mim
 
 :man_technologist: <strong>Técnico Especializado no SENAI CIMATEC</strong>
 
-:mortar_board: <strong>Técnico em Eletrônica pelo IFBA</strong>
-:mortar_board: <strong>Graduado em Análise e Desenvolvimento de Sistemas pela UNICESUMAR</strong>
+:mortar_board: <strong>Técnico em Eletrônica pelo IFBA</strong><br>
+:mortar_board: <strong>Graduado em Análise e Desenvolvimento de Sistemas pela UNICESUMAR</strong><br>
 :mortar_board: <strong>Graduando em Engenharia Elétrica pela UNICESUMAR - Prev: Dez/2024</strong>
 
 
